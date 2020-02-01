@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aiseixaeva.salafrigeriolab.com/sitemap.xml
